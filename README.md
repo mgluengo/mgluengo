@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Maria</h1>
+<h3 align="center"> Product Lead | Innovation Strategist | Data storyteller | API enthusiast </h3>
 
-<!--
-**mgluengo/mgluengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://raw.githubusercontent.com/mgluengo/mgluengo/master/readme_header.png "Header")
 
-Here are some ideas to get you started:
+## About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :rocket:
+- 🌍  
+- 🔧  
+- 🌱 Currently learning ...
+- 💬 Ping me about Product Management, Innovation, API Strategy, Dev Rel, Mentoring... and anything else!
+
+Text
+</br>
+
+## Languages & Tools:
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+## Find me at:
+</br>
+
