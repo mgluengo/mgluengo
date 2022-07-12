@@ -1,7 +1,8 @@
+![Header](https://raw.githubusercontent.com/mgluengo/mgluengo/master/readme_header.png "Header")
+
 <h1 align="center">Hi there! 👋 I'm Maria</h1>
 <h3 align="center"> Product Lead | Innovation Strategist | Data storyteller | API enthusiast </h3>
 
-![Header](https://raw.githubusercontent.com/mgluengo/mgluengo/master/readme_header.png "Header")
 
 ## About me:
 
