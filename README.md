@@ -9,8 +9,8 @@
 I'm Product Strategy Manager with experience leading Developer Programs and Open API initiatives end-to-end. I've recently started to dive deeper into programming and data analytics. Currently taking my first steps on GitHub, and excited about the journey ahead!
 
 - :rocket: Passionate about **innovation** and **building new products**. 
-- :tophat: I like wearing many hats! I'm at the intersections of **Product Management**, **Strategy**, **Data**, and **Program Management**.
-- 🌍  **Travel** and coffee are my drugs. I'm always on-the-go. I've been to almost 90 countries, but my bucket list is still very long!
+- :tophat: I like wearing many hats! Always at the intersections of **Product Management**, **Strategy**, **Data**, and **Program Management**.
+- 🌍  **Travel** and coffee are my drugs. I've been to almost 90 countries, but my bucket list is still very long!
 - :books: Hobbyist writer, journalist by training, turned into **business and data storyteller**.
 - 💬 Ping me about Product Management, Innovation, API Strategy, Dev Rel, Mentoring... and anything else!
 
