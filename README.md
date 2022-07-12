@@ -6,14 +6,18 @@
 
 ## About me:
 
-I'm a Sr. Product Strategy Manager with 8+ years of working experience in IT.  
+I'm Product Strategy Lead with experience leading Developer Programs and Open API initiatives end-to-end. I've recently started to dive deeper into programming and data analytics. Currently taking my first steps on GitHub, and excited about the journey ahead!
 
-- :rocket: Passionate about **innovation** and **building new products** from ideation to launch and outreach. 
-- :tophat: As a **generalist**, I like wearing many hats! I thrive at the intersections of **Product Management**, **Strategy**, **Data**, and Program Management. I enjoy exploring new, unrelated fields and connecting the dots.
+- :rocket: Passionate about **innovation** and **building new products**. 
+- :tophat: I like wearing many hats! I'm at the intersections of **Product Management**, **Strategy**, **Data**, and **Program Management**.
 - 🌍  **Travel** and coffee are my drugs. I'm always on-the-go. I've been to almost 90 countries, but my bucket list is still very long!
 - :books: Hobbyist writer, journalist by training, turned into **business and data storyteller**.
-- 🔧  Hooked to **Python** and **SQL**. Currently learning about web app development and **REST API** development with Python and Flask + building new **data projects** with SQL and Tableau.
 - 💬 Ping me about Product Management, Innovation, API Strategy, Dev Rel, Mentoring... and anything else!
+
+## What I'm currently up to:
+- 🔧  Hooked to **Python** and **SQL**. 
+- 🌱 Getting started with **web app** & **REST API** dev with Python and Flask. 
+- ⚙️ Building new **data projects** with SQL and Tableau.
 </br>
 
 ## Languages & Tools:
