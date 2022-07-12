@@ -7,6 +7,7 @@
 ## About me:
 
 - :rocket:
+- :tophat:
 - 🌍  
 - 🔧  
 - 🌱 Currently learning ...
