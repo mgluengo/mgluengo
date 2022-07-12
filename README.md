@@ -6,7 +6,7 @@
 
 ## About me:
 
-I'm Product Strategy Manager with experience leading Developer Programs and Open API initiatives end-to-end. I've recently started to dive deeper into programming and data analytics. Currently taking my first steps on GitHub, and excited about the journey ahead!
+I'm a Product Strategy Manager with experience leading Developer Programs and Open API initiatives end-to-end. Currently diving deeper into programming and data analytics.
 
 - :rocket: Passionate about **innovation** and **building new products**. 
 - :tophat: I like wearing many hats! Always at the intersections of **Product Management**, **Strategy**, **Data**, and **Program Management**.
