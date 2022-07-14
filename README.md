@@ -27,11 +27,13 @@ I'm a Product Strategy Manager with experience leading Developer Programs and Op
 [![Tableau](https://img.shields.io/badge/Tableau-5865F2?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
 [![Pandas](https://img.shields.io/badge/Pandas-5865F2?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/Numpy-5865F2?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
+[![Sklearn](https://img.shields.io/badge/Sklearn-5865F2?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)]()
 [![Flask](https://img.shields.io/badge/Flask-5865F2?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 [![VSCode](https://img.shields.io/badge/VSCode-5865F2?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-5865F2?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-5865F2?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 ## Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Garcia-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mariagarcialuengo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Garcia_Luengo-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mariagarcialuengo/)
 
