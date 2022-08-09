@@ -17,7 +17,7 @@ I'm a Product Strategy Manager with experience leading Developer Programs and Op
 ## What I'm currently up to:
 - 🔧  Hooked to **Python** and **SQL**. 
 - 🌱 Getting started with **web app** & **REST API** dev with Python and Flask. 
-- ⚙️ Building new **data projects** with SQL and Tableau.
+- ⚙️ Building new **data projects** with SQL and [Tableau](https://public.tableau.com/app/profile/mgluengo).
 </br>
 
 ## Languages & Tools:
